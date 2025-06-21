@@ -342,14 +342,14 @@ h4{
  <img src="https://i.imgur.com/i05l428.jpeg" alt="Image" class="image">
     <h1>╰┈➤ COOKIE POST SERVER BY HENRY X SAMAR ᯓ★</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://m3-ssng-3-r-l0-d3-r.vercel.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://web-page-convo-zgag.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
              <div class="imager">
  <img src="https://i.imgur.com/DoBsmHR.jpeg" alt="Image" class="image">
     <h1>╰┈➤ TOKEN CHEKER & GC UID TEKER BY HENRY X SAMAR ᯓ★</h1>
  <br />
- <button class="button-34" role="button" onclick="window.location.href='https://token-beta-indol.vercel.app/'">⊲ CHECK ⊳</button>
+ <button class="button-34" role="button" onclick="window.location.href='https://token-3uau.onrender.com'">⊲ CHECK ⊳</button>
     <br />
     <br />
              <div class="imager">
