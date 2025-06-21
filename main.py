@@ -360,7 +360,7 @@ h4{
     <br />
     <br />
             <div class="imager">
- <img src="https://i.imgur.com/i05l428.jpeg" alt="Image" class="image">
+ <img src="https://i.imgur.com/7pBvKtY.jpeg" alt="Image" class="image">
     <h1>╰┈➤ TOKEN POST SERVER BY HENRY X SAMAR ᯓ★</h1>
  <br />
  <button class="button-34" role="button" onclick="window.location.href='https://web-page-w0sz.onrender.com/'">⊲ CHECK ⊳</button>
